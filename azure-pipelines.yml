@@ -12,10 +12,10 @@ variables:
   azureSubscription: '198243e5-3df5-49e8-aa6f-85e9a79a1001'
   
   # Web app name
-  webAppName: ''
+  webAppName: 'ms-bot-java'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'ms-bot-java'
   
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
